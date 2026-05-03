@@ -1,0 +1,15 @@
+{
+  "name": "nullapt/prompt-optimizer",
+  "version": "0.1.0",
+  "description": "Heuristic prompt compression that strips fillers, pleasantries, and verbose phrasings to cut LLM tokens. Deterministic, no network, no LLM dependency.",
+  "author": "nullapt",
+  "homepage": "https://github.com/nullapt/examples/tree/main/prompt-optimizer-skill",
+  "license": "MIT",
+  "registry_url": "https://registry.nullapt.dev/v1/skills/nullapt/prompt-optimizer",
+  "tags": ["prompt-engineering", "tokens", "llm", "optimization", "offline"],
+  "permissions_summary": {
+    "network": false,
+    "filesystem": false,
+    "env": []
+  }
+}
