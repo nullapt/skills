@@ -1,0 +1,16 @@
+{
+  "name": "web-search",
+  "version": "1.0.0",
+  "description": "Search the web using DuckDuckGo Instant Answers",
+  "author": "nullapt",
+  "homepage": "https://github.com/nullapt/examples/tree/main/web-search-skill",
+  "license": "MIT",
+  "registry_url": "https://registry.nullapt.dev/v1/skills/web-search",
+  "tags": ["search", "web", "productivity"],
+  "permissions_summary": {
+    "network": true,
+    "network_domains": ["api.duckduckgo.com"],
+    "filesystem": false,
+    "env": []
+  }
+}
